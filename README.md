@@ -46,8 +46,8 @@ The RoboPunksNFT contract is a standard ERC-721 implementation with additional f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/robopunks-nft.git
-   cd robopunks-nft
+   git clone https://github.com/yourusername/RoboPunksNFT.git
+   cd RoboPunksNFT
    ```
 
 2. Install dependencies:
